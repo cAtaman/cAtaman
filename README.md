@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm [Chima Ataman](https://twitter.com/johnkantius)
+
+I am a Software developer and Mechanical Engineering student from Nigeria.
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulebose&layout=compact&hide_border=true&count_private=true" alt="My most used languages for code on Github" />
+
+- 📫 How to reach me: [Twitter](https://twitter.com/paulebose) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/)
+
 
 <!--
 **cAtaman/cAtaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
