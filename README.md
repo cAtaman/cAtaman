@@ -4,7 +4,7 @@ I am a Software developer and Mechanical Engineering student from Nigeria.
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cAtaman&layout=compact&hide_border=true&count_private=true" alt="My most used languages for code on Github" />
 
-📫 How to reach me: [Twitter](https://twitter.com/paulebose) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:chimaataman@gmail.com)
+📫 How to reach me: [Twitter](https://twitter.com/johnkantius) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:chimaataman@gmail.com)
 
 
 <!--
