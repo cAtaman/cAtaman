@@ -2,10 +2,15 @@
 
 I am a Software developer and Mechanical Engineering student from Nigeria.
 
-<div><p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true" alt="cAtaman" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cAtaman&layout=compact&hide_border=true&count_private=true" alt="My most used languages for code on Github" /> -->
-</p/></div>
+<div>
+  <p>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true&theme=react" alt="cAtaman" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cAtaman&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" alt="cAtaman" />
+  </p>
+</div>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cAtaman&row=1&no-bg=true" alt="cAtaman"/></a></p>
 
