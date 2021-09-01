@@ -1,4 +1,8 @@
-### Hi there 👋 I'm [Chima Ataman](https://twitter.com/johnkantius)
+### Hi there 👋 I'm [Chima Ataman](https://twitter.com/johnkantius)   
+
+<a href="https://github.com/wei">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat" />
+</a>
 
 I am a Software developer and Mechanical Engineering student from Nigeria.
 
