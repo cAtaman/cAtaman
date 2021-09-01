@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm [Chima Ataman](https://twitter.com/johnkantius)   
 
-<a href="https://github.com/wei">
-    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat" />
-</a>
+[![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat)](https://github.com/cAtaman)
 
 I am a Software developer and Mechanical Engineering student from Nigeria.
 
