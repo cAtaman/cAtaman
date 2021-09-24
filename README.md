@@ -16,4 +16,4 @@ I am a Software developer and Mechanical Engineering student from Nigeria.
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cAtaman&row=1&no-bg=true" alt="cAtaman"/></a></p>
 
-📫 How to reach me: [Twitter](https://twitter.com/johnkantius) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:ataman.chima@gmail.com)
+📫 How to reach me: [Twitter](https://twitter.com/johnkantius) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:chimaataman@gmail.com)
