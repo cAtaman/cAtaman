@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Chima Ataman](https://twitter.com/johnkantius)   
+### Hi there 👋 I'm [Chima Ataman](https://www.linkedin.com/in/chima-ataman-a64462175/)   
 
 [![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat)](https://github.com/cAtaman)
 
