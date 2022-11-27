@@ -2,7 +2,7 @@
 
 [![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat)](https://github.com/cAtaman)
 
-I am a Software developer and Mechanical Engineering student from Nigeria.
+I am a Software developer from Nigeria.
 
 <div>
   <p>
