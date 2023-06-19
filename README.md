@@ -14,6 +14,6 @@ I am a Software developer from Nigeria.
   </p>
 </div>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-cataman.vercel.app/?username=cAtaman&theme=flat&no-bg=true&column=-1" alt="cAtaman"/></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-cataman.vercel.app/?username=cAtaman&theme=flat&no-bg=true" alt="cAtaman"/></a></p>
 
 📫 How to reach me: [Twitter](https://twitter.com/johnkantius) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:chimaataman@gmail.com)
