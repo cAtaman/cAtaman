@@ -6,8 +6,8 @@ I am a Software developer from Nigeria.
 
 <div>
   <p>
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true&theme=react" alt="cAtaman" />
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cAtaman&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
+    <img height="160" align="center" src="https://github-readme-stats-cataman.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true&theme=react" alt="cAtaman" />
+    <img height="160" align="center" src="https://github-readme-stats-cataman.vercel.app/api/top-langs/?username=cAtaman&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" alt="cAtaman" />
