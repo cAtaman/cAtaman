@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Chima Ataman](https://www.linkedin.com/in/chima-ataman-a64462175/)   
 
-[![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat)](https://github.com/cAtaman)
+[![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-cAtaman&label=visitors&color=grey&style=flat)](https://github.com/cAtaman) [![wakatime](https://wakatime.com/badge/user/841f74da-da14-4037-90ad-7d415a5e5ec0.svg?style=default)](https://wakatime.com/@841f74da-da14-4037-90ad-7d415a5e5ec0)
 
 I am a Software developer from Nigeria.
 
