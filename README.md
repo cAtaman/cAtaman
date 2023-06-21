@@ -10,10 +10,16 @@ I am a Software developer from Nigeria.
     <img height="160" align="center" src="https://github-readme-stats-cataman.vercel.app/api/top-langs/?username=cAtaman&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" alt="cAtaman" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" target=”_blank”>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" alt="cAtaman" />
+    </a>
   </p>
 </div>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-cataman.vercel.app/?username=cAtaman&theme=flat&no-bg=true" alt="cAtaman"/></a></p>
+<p align="left">
+  <a href="https://github-profile-trophy-cataman.vercel.app/?username=cAtaman&theme=flat&no-bg=true" target=”_blank”>
+    <img src="https://github-profile-trophy-cataman.vercel.app/?username=cAtaman&theme=flat&no-bg=true" alt="cAtaman"/>
+  </a>
+</p>
 
 📫 How to reach me: [Twitter](https://twitter.com/johnkantius) * [LinkedIn](https://www.linkedin.com/in/chima-ataman-a64462175/) * [Email](mailto:chimaataman@gmail.com)
