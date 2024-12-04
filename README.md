@@ -7,9 +7,9 @@ I am a Software developer from Nigeria.
 
 <div>
   <p>
-    <img height="200" align="center" src="https://github-readme-stats-cataman.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true&theme=react" alt="cAtaman" />
+    <img height="200" width=500 align="center" src="https://github-readme-stats-cataman.vercel.app/api?username=cAtaman&show_icons=true&locale=en&default&count_private=true&theme=react" alt="cAtaman" />
 <!--     <img height="160" align="center" src="https://github-readme-stats-cataman.vercel.app/api/top-langs/?username=cAtaman&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" /> -->
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cAtaman&layout=compact&langs_count=10&display_format=percent&custom_title=Language%20Stats&count_private=true&theme=react" alt="My most used languages for code on Github" />
+    <img height="200" width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cAtaman&layout=compact&langs_count=10&display_format=percent&custom_title=Language%20Stats&count_private=true&theme=react" alt="My most used languages for code on Github" />
   </p>
   <p>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=cAtaman&theme=blood-dark&background=000000" target=”_blank”>
